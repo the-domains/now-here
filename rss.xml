@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Now here]]></title>
-        <description><![CDATA[Now here]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Everyday mindfulness]]></title>
+        <description><![CDATA[Everyday mindfulness]]></description>
+        <link>https://thegrid.ai/now-here/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:18:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 Jun 2016 15:25:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/now-here/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97399ed4-cfa4-4519-9dc7-2ac78d663c37.jpg">]]></description>
+            <link>https://thegrid.ai/now-here/you-red-is-my-blue-and-my-blue-is-your-red/index.html</link>
+            <guid isPermaLink="false">6a2250cf-a4e4-491d-a14b-c3b37ae43ced</guid>
+            <pubDate>Tue, 07 Jun 2016 15:25:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/027e266f-a14a-42c2-93ee-54f493c286bd.jpg">]]></description>
-            <link>undefinedfinding-the-path-by-following-your-light/index.html</link>
+            <link>https://thegrid.ai/now-here/finding-the-path-by-following-your-light/index.html</link>
             <guid isPermaLink="false">8dcca921-cf7f-4f2b-9726-d604f23aca2e</guid>
             <pubDate>Tue, 15 Mar 2016 21:18:03 GMT</pubDate>
         </item>
